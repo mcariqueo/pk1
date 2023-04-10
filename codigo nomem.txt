@@ -1,0 +1,4 @@
+Volumen central (V1): V1 = TV1 * EXP(ETA1), donde TV1 es el valor típico de V1 y ETA1 es el efecto aleatorio individual.
+Aclaramiento total (CL): CL = TVCL * EXP(ETA2), donde TVCL es el valor típico de CL y ETA2 es el efecto aleatorio individual.
+Volumen periférico (V2): V2 = TV2 * EXP(ETA3), donde TV2 es el valor típico de V2 y ETA3 es el efecto aleatorio individual.
+Tasa de transferencia intercompartimental (Q): Q = TVQ * EXP(ETA4), donde TVQ es el valor típico de Q y ETA4 es el efecto aleatorio individual.
